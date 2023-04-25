@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
+   sodipodi:docname="外接口设计.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.9116944"
+     inkscape:cx="454.04747"
+     inkscape:cy="666.16296"
+     inkscape:window-width="1728"
+     inkscape:window-height="969"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 148.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="210 : 148.5 : 1"
+       inkscape:persp3d-origin="105 : 99 : 1"
+       id="perspective5104" />
+    <linearGradient
+       id="linearGradient2852"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop2850" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter6022"
+       x="-0.0087766887"
+       y="-0.012756523"
+       width="1.0175534"
+       height="1.025513">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.00064351479"
+         id="feGaussianBlur6024" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+       id="rect111-7"
+       width="60"
+       height="80"
+       x="101.98673"
+       y="127.64191" />
+    <path
+       style="opacity:1;fill:#ff0000;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+       id="path2998"
+       sodipodi:type="arc"
+       sodipodi:cx="69.756317"
+       sodipodi:cy="221.26178"
+       sodipodi:rx="1.9804634"
+       sodipodi:ry="0.55012876"
+       sodipodi:start="0"
+       sodipodi:end="0.65685924"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="m 71.736781,221.26178 a 1.9804634,0.55012876 0 0 1 -0.412107,0.33593" />
+    <rect
+       style="opacity:0.250909;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+       id="rect5862"
+       width="11.342942"
+       height="2.0016913"
+       x="149.23744"
+       y="206.73056" />
+    <rect
+       style="opacity:0.250909;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+       id="rect5864"
+       width="11.676551"
+       height="1.6680788"
+       x="104.08811"
+       y="206.95297" />
+    <rect
+       style="opacity:0.250909;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+       id="rect5866"
+       width="6.0050902"
+       height="2.1129014"
+       x="131.2222"
+       y="206.84177" />
+    <rect
+       style="opacity:0.250909;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+       id="rect5868"
+       width="1.7792801"
+       height="10.898109"
+       x="161.13641"
+       y="184.1559" />
+    <rect
+       style="opacity:0.250909;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+       id="rect5868-5-583"
+       width="1.7792816"
+       height="3.4473619"
+       x="101.08558"
+       y="137.72771" />
+    <rect
+       style="opacity:0.250909;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+       id="rect5868-5-5-0"
+       width="1.5568711"
+       height="3.0025434"
+       x="101.30799"
+       y="142.06471" />
+    <rect
+       style="opacity:0.250909;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+       id="rect5868-5-58"
+       width="2.0016856"
+       height="7.8955731"
+       x="161.1364"
+       y="136.94928" />
+    <rect
+       style="opacity:0.250909;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+       id="rect5868-5-58-8-7"
+       width="3.5585697"
+       height="9.3412466"
+       x="100.19594"
+       y="136.33763" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:Arial;-inkscape-font-specification:'Arial Italic';opacity:0.9792;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1;filter:url(#filter6022)"
+       x="105.8674"
+       y="138.45055"
+       id="text6016"><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:Arial;-inkscape-font-specification:'Arial Italic';stroke-width:0.264583"
+         x="105.8674"
+         y="138.45055"
+         id="tspan6020" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.50001px;font-family:Arial;-inkscape-font-specification:'Arial Italic';opacity:0.9792;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+       x="105.08897"
+       y="140.34103"
+       id="text6033"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583;-inkscape-font-specification:'Arial Italic';font-family:Arial;font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
+         x="105.08897"
+         y="140.34103"
+         id="tspan6037" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.25px;font-family:Arial;-inkscape-font-specification:'Arial Italic';white-space:pre;inline-size:36.2875;opacity:0.9792;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+       x="105.64499"
+       y="136.44884"
+       id="text6046"
+       transform="translate(-1.1120525,-0.33361576)"><tspan
+         x="105.64499"
+         y="136.44884"
+         id="tspan956"><tspan
+           style="font-style:normal;-inkscape-font-specification:Arial"
+           id="tspan954">音量区：
+</tspan></tspan><tspan
+         x="105.64499"
+         y="140.51791"
+         id="tspan962"><tspan
+           style="font-style:normal;-inkscape-font-specification:Arial"
+           id="tspan958">上：音量</tspan><tspan
+           style="font-style:normal;-inkscape-font-specification:Arial"
+           id="tspan960">++
+</tspan></tspan><tspan
+         x="105.64499"
+         y="144.5883"
+         id="tspan968"><tspan
+           style="font-style:normal;-inkscape-font-specification:Arial"
+           id="tspan964">下：音量</tspan><tspan
+           style="font-style:normal;-inkscape-font-specification:Arial"
+           id="tspan966">--</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.25001px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:8.30172;opacity:0.9792;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+       x="143.45477"
+       y="140.45222"
+       id="text6054"
+       transform="translate(8.2291887,-0.33361576)"><tspan
+         x="143.45477"
+         y="140.45222"
+         id="tspan970">开/关</tspan><tspan
+         x="143.45477"
+         y="144.51605"
+         id="tspan972">屏键</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.25001px;font-family:Arial;-inkscape-font-specification:Arial;opacity:0.9792;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+       x="139.785"
+       y="188.04808"
+       id="text6058"><tspan
+         sodipodi:role="line"
+         id="tspan6056"
+         style="stroke-width:0.264583"
+         x="139.785"
+         y="188.04808">MicroSD卡槽</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="139.785"
+         y="192.11191"
+         id="tspan6060">（存储音乐）</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.25001px;font-family:Arial;-inkscape-font-specification:Arial;opacity:0.9792;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+       x="149.79347"
+       y="212.73566"
+       id="text6064"><tspan
+         sodipodi:role="line"
+         id="tspan6062"
+         style="stroke-width:0.264583"
+         x="149.79347"
+         y="212.73566">扬声器</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.25001px;font-family:Arial;-inkscape-font-specification:Arial;opacity:0.9792;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+       x="104.64391"
+       y="212.65564"
+       id="text6064-0"><tspan
+         sodipodi:role="line"
+         id="tspan6062-5"
+         style="stroke-width:0.264583"
+         x="104.64391"
+         y="212.65564">扬声器</tspan></text>
+    <rect
+       style="opacity:0.37090909;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+       id="rect6093"
+       width="2.1128998"
+       height="2.5577207"
+       x="145.56767"
+       y="126.77399" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.25001px;font-family:Arial;-inkscape-font-specification:Arial;opacity:0.996364;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+       x="132.77908"
+       y="130.44376"
+       id="text6131"><tspan
+         sodipodi:role="line"
+         id="tspan6129"
+         style="stroke-width:0.264583"
+         x="132.77908"
+         y="130.44376">3.5mm</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="132.77908"
+         y="134.50758"
+         id="tspan6133">耳机接口</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.25001px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:12.6761;opacity:0.996364;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+       x="131.2222"
+       y="212.84686"
+       id="text6137"
+       transform="translate(-2.6689261,0.22241051)"><tspan
+         x="131.2222"
+         y="212.84686"
+         id="tspan974">Type - c
+</tspan><tspan
+         x="131.2222"
+         y="216.91069"
+         id="tspan976">接口</tspan></text>
+  </g>
+</svg>
